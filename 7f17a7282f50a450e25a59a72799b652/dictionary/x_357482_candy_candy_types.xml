@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="candy types" max_length="40" name="x_357482_candy_candy_types" type="collection">
+        <element label="Name of Candy" max_length="40" name="name_of_candy" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Type of Candy" max_length="40" name="type_of_candy" type="string"/>
     </element>
 </database>
