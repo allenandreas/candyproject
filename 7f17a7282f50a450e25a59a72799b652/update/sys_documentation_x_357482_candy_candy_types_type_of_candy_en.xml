@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type_of_candy" label="Type of Candy" language="en" table="x_357482_candy_candy_types">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type_of_candy</element>
+            <help/>
+            <hint/>
+            <label>Type of Candy</label>
+            <language>en</language>
+            <name>x_357482_candy_candy_types</name>
+            <plural>Type of Candies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>aandrea</sys_created_by>
+            <sys_created_on>2020-11-02 19:44:02</sys_created_on>
+            <sys_id>8457a3682f50a450e25a59a72799b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type of Candy</sys_name>
+            <sys_package display_value="Candy" source="x_357482_candy">7f17a7282f50a450e25a59a72799b652</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Candy">7f17a7282f50a450e25a59a72799b652</sys_scope>
+            <sys_update_name>sys_documentation_x_357482_candy_candy_types_type_of_candy_en</sys_update_name>
+            <sys_updated_by>aandrea</sys_updated_by>
+            <sys_updated_on>2020-11-02 19:44:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
